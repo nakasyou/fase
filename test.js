@@ -16,4 +16,4 @@ class Test{
     return 'test!!'
   }
 }
-Scratch.extensions.register(new StrictEqualityExtension());
+Scratch.extensions.register(new Test());
